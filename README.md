@@ -8,8 +8,8 @@ Da biste instalirali potrebne pakete pokrecete u terminalu komande:
 **Windows:**
 
 ```bash
-pythom -m venv venv
-.\venv\\bin\\activate
+python -m venv venv
+.\venv\bin\activate
 pip install -r requirements.txt
 ```
 **Linux/Mac**
